@@ -4,7 +4,7 @@
 
 [![IOGS logo](ENSC.jpg)](https://ensc.bordeaux-inp.fr/)
 
-## Lecture/Demos
+## Lectures/Demos
 
 - [Machine Learning In Action](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/workflow/ml_in_action.ipynb)
 - [Machine Learning Fundamentals](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/workflow/ml_fundamentals.ipynb)
