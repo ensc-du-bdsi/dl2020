@@ -14,5 +14,5 @@
 ## Practicals
 
 - [Classify Fashion Items](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/fashion_mnist.ipynb)
-- [Classify Common Images](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/fashion_mnist.ipynb)
-- [Distinguish Dogs vs. Cats](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/fashion_mnist.ipynb)
+- [Classify Common Images](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/cifar10.ipynb)
+- [Distinguish Dogs vs. Cats](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/dogs_vs_cats_keras.ipynb)
